@@ -11,3 +11,7 @@ The accelerometer measures acceleration:
 * Zero values indicate constant velocity (which might not be zero).
 
 source: https://stackoverflow.com/a/5871524/1933185
+
+### Interessting
+
+- https://github.com/rvlasveld/accelerometer_plotting
