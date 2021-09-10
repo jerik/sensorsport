@@ -1,0 +1,596 @@
+ 
+header;start
+header;app name;Sensor Recording;flavor;Pro;version;7.11;code;171
+header;android;10;SDK_INT;29;targetSdkVersion;30;minSdkVersion;14
+header;smartphone;Xiaomi;model;Redmi 7A
+header;free MB;1993.2421875;/storage/emulated/0/SensorRecording
+info;time;excel time;info text;info comment
+1-13+(sensors);time;excel time;x;y;z;abs value;RoT/steps;??
+action;time;excel time;action type;health;status;charge;plug;level [%];voltage;temperature;technology
+event;time;excel time;statistics;start/stop
+average;time;excel time;lon;lat;alt;acc
+stdDev;time;excel time;lon;lat;alt;acc;count
+header;end
+info;12:02:16.219;44449.501576608796;ACCESS_BACKGROUND_LOCATION;granted
+info;12:02:16.219;44449.501576608796;ACCESS_COARSE_LOCATION;granted
+info;12:02:16.219;44449.501576608796;ACCESS_FINE_LOCATION;granted
+info;12:02:16.219;44449.501576608796;READ_EXTERNAL_STORAGE;granted
+info;12:02:16.219;44449.501576608796;WRITE_EXTERNAL_STORAGE;granted
+info;12:02:16.219;44449.501576608796;RECORD_AUDIO;granted
+info;12:02:16.219;44449.501576608796;Start Aufzeichnung;2021-09-10 12:02:16.219 +0200 (MESZ)
+info;12:02:16.219;44449.501576608796;Start Aufzeichnung;Update Period [ms];100;Distance travelled from;1
+action;12:02:16.297;44449.501577511575;BATTERY_CHANGED;gut;OK;entladen;getrennt;34.0;3.745;27.9;Li-poly
+event;12:02:17.381;44449.50159005787;statistics;started
+17;12:02:26.895;44449.50170017361;1.000
+info;12:02:28.229;44449.50171561343;Ende Aufzeichnung;Normales Ende durch Bediener
+ 
+header;start
+header;app name;Sensor Recording;flavor;Pro;version;7.11;code;171
+header;android;10;SDK_INT;29;targetSdkVersion;30;minSdkVersion;14
+header;smartphone;Xiaomi;model;Redmi 7A
+header;free MB;1993.0859375;/storage/emulated/0/SensorRecording
+info;time;excel time;info text;info comment
+1-13+(sensors);time;excel time;x;y;z;abs value;RoT/steps;??
+action;time;excel time;action type;health;status;charge;plug;level [%];voltage;temperature;technology
+event;time;excel time;statistics;start/stop
+average;time;excel time;lon;lat;alt;acc
+stdDev;time;excel time;lon;lat;alt;acc;count
+header;end
+info;12:02:35.625;44449.50180121528;ACCESS_BACKGROUND_LOCATION;granted
+info;12:02:35.625;44449.50180121528;ACCESS_COARSE_LOCATION;granted
+info;12:02:35.625;44449.50180121528;ACCESS_FINE_LOCATION;granted
+info;12:02:35.625;44449.50180121528;READ_EXTERNAL_STORAGE;granted
+info;12:02:35.625;44449.50180121528;WRITE_EXTERNAL_STORAGE;granted
+info;12:02:35.625;44449.50180121528;RECORD_AUDIO;granted
+info;12:02:35.625;44449.50180121528;Start Aufzeichnung;2021-09-10 12:02:35.625 +0200 (MESZ)
+info;12:02:35.625;44449.50180121528;Start Aufzeichnung;Update Period [ms];100;Distance travelled from;1
+action;12:02:35.704;44449.50180212963;BATTERY_CHANGED;gut;OK;entladen;getrennt;34.0;3.745;27.9;Li-poly
+event;12:02:36.077;44449.50180644676;statistics;started
+info;12:02:51.106;44449.501980393514;Ende Aufzeichnung;Normales Ende durch Bediener
+ 
+header;start
+header;app name;Sensor Recording;flavor;Pro;version;7.11;code;171
+header;android;10;SDK_INT;29;targetSdkVersion;30;minSdkVersion;14
+header;smartphone;Xiaomi;model;Redmi 7A
+header;free MB;1992.984375;/storage/emulated/0/SensorRecording
+info;time;excel time;info text;info comment
+1-13+(sensors);time;excel time;x;y;z;abs value;RoT/steps;??
+action;time;excel time;action type;health;status;charge;plug;level [%];voltage;temperature;technology
+event;time;excel time;statistics;start/stop
+average;time;excel time;lon;lat;alt;acc
+stdDev;time;excel time;lon;lat;alt;acc;count
+header;end
+info;12:02:56.831;44449.50204665509;ACCESS_BACKGROUND_LOCATION;granted
+info;12:02:56.831;44449.50204665509;ACCESS_COARSE_LOCATION;granted
+info;12:02:56.831;44449.50204665509;ACCESS_FINE_LOCATION;granted
+info;12:02:56.831;44449.50204665509;READ_EXTERNAL_STORAGE;granted
+info;12:02:56.831;44449.50204665509;WRITE_EXTERNAL_STORAGE;granted
+info;12:02:56.831;44449.50204665509;RECORD_AUDIO;granted
+info;12:02:56.831;44449.50204665509;Start Aufzeichnung;2021-09-10 12:02:56.831 +0200 (MESZ)
+info;12:02:56.831;44449.50204665509;Start Aufzeichnung;Update Period [ms];100;Distance travelled from;1
+action;12:02:56.902;44449.50204747685;BATTERY_CHANGED;gut;OK;entladen;getrennt;34.0;3.745;27.9;Li-poly
+event;12:02:57.284;44449.50205189815;statistics;started
+17;12:03:08.774;44449.50218488426;2.000
+17;12:03:18.732;44449.50230013889;3.000
+event;12:03:29.072;44449.50241981482;0.00000000;0.00000000;initial position to go;net
+event;12:03:29.221;44449.50242153935;0.00000000;0.00000000;take over position;net
+event;12:03:41.132;44449.50255939815;statistics;stopped
+average;12:03:41.132;44449.50255939815;8.69894675;50.11461101;6.791;28.110
+stdDev;12:03:41.132;44449.50255939815;1.391;0.781;9.494;14.572;18
+event;12:03:44.132;44449.50259412037;statistics;stopped
+average;12:03:44.132;44449.50259412037;8.69894675;50.11461101;6.791;28.110
+stdDev;12:03:44.132;44449.50259412037;1.391;0.781;9.494;14.572;18
+action;12:03:48.465;44449.50264427083;BATTERY_CHANGED;gut;OK;entladen;getrennt;33.0;3.733;28.3;Li-poly
+17;12:03:55.675;44449.50272771991;4.000
+17;12:04:08.696;44449.50287842593;5.000
+17;12:04:18.651;44449.50299364583;6.000
+17;12:04:28.628;44449.50310912037;7.000
+17;12:05:01.570;44449.503490393516;8.000
+17;12:05:11.597;44449.50360644676;9.000
+event;12:05:14.117;44449.50363561342;0.00000000;0.00000000;take over position;net
+event;12:05:36.084;44449.50388986111;statistics;stopped
+average;12:05:36.084;44449.50388986111;8.69894675;50.11461101;6.791;28.110
+stdDev;12:05:36.084;44449.50388986111;1.391;0.781;9.494;14.572;18
+17;12:05:45.522;44449.50399909722;10.000
+action;12:05:56.449;44449.50412556713;BATTERY_CHANGED;gut;OK;entladen;getrennt;33.0;3.743;28.7;Li-poly
+17;12:06:02.482;44449.504195393514;11.000
+17;12:06:06.517;44449.5042420949;12.000
+action;12:06:56.486;44449.50482043982;BATTERY_CHANGED;gut;OK;entladen;getrennt;33.0;3.745;28.4;Li-poly
+action;12:09:46.793;44449.50679158565;BATTERY_CHANGED;gut;OK;nicht laden;getrennt;33.0;3.747;28.4;Li-poly
+action;12:09:46.942;44449.50679331018;BATTERY_CHANGED;gut;OK;laden;getrennt;33.0;3.743;28.5;Li-poly
+action;12:09:47.535;44449.50680017361;ACTION_POWER_CONNECTED
+action;12:09:47.535;44449.50680017361;BATTERY_CHANGED;gut;OK;laden;AC;33.0;3.745;28.4;Li-poly
+action;12:09:47.538;44449.50680020833;BATTERY_CHANGED;gut;OK;laden;AC;33.0;3.724;28.5;Li-poly
+action;12:09:49.026;44449.506817430556;BATTERY_CHANGED;gut;OK;laden;AC;33.0;3.765;28.3;Li-poly
+info;12:10:12.591;44449.50709017361;Ende Aufzeichnung;Timeout GPS
+ 
+header;start
+header;app name;Sensor Recording;flavor;Pro;version;7.11;code;171
+header;android;10;SDK_INT;29;targetSdkVersion;30;minSdkVersion;14
+header;smartphone;Xiaomi;model;Redmi 7A
+header;free MB;1989.140625;/storage/emulated/0/SensorRecording
+info;time;excel time;info text;info comment
+1-13+(sensors);time;excel time;x;y;z;abs value;RoT/steps;??
+action;time;excel time;action type;health;status;charge;plug;level [%];voltage;temperature;technology
+event;time;excel time;statistics;start/stop
+average;time;excel time;lon;lat;alt;acc
+stdDev;time;excel time;lon;lat;alt;acc;count
+header;end
+info;12:10:12.765;44449.5070921875;ACCESS_BACKGROUND_LOCATION;granted
+info;12:10:12.765;44449.5070921875;ACCESS_COARSE_LOCATION;granted
+info;12:10:12.765;44449.5070921875;ACCESS_FINE_LOCATION;granted
+info;12:10:12.765;44449.5070921875;READ_EXTERNAL_STORAGE;granted
+info;12:10:12.765;44449.5070921875;WRITE_EXTERNAL_STORAGE;granted
+info;12:10:12.765;44449.5070921875;RECORD_AUDIO;granted
+info;12:10:12.765;44449.5070921875;Start Aufzeichnung;2021-09-10 12:10:12.765 +0200 (MESZ)
+info;12:10:12.765;44449.5070921875;Start Aufzeichnung;Update Period [ms];100;Distance travelled from;1
+action;12:10:37.873;44449.50738278935;BATTERY_CHANGED;gut;OK;laden;AC;33.0;3.824;28.1;Li-poly
+action;12:10:47.406;44449.507493125;BATTERY_CHANGED;gut;OK;laden;AC;33.0;3.827;28.1;Li-poly
+action;12:10:49.827;44449.50752114583;BATTERY_CHANGED;gut;OK;laden;AC;33.0;3.82;28.1;Li-poly
+action;12:11:05.446;44449.50770192129;ACTION_POWER_DISCONNECTED
+action;12:11:05.447;44449.507701932875;BATTERY_CHANGED;gut;OK;entladen;getrennt;33.0;3.817;28.4;Li-poly
+action;12:11:05.565;44449.507703298616;BATTERY_CHANGED;gut;OK;entladen;getrennt;33.0;3.715;28.5;Li-poly
+action;12:11:07.629;44449.507727187505;BATTERY_CHANGED;gut;OK;nicht laden;getrennt;33.0;3.758;28.3;Li-poly
+action;12:11:07.750;44449.50772858797;BATTERY_CHANGED;gut;OK;laden;getrennt;33.0;3.759;28.3;Li-poly
+action;12:11:08.207;44449.50773387731;ACTION_POWER_CONNECTED
+action;12:11:08.208;44449.50773388889;BATTERY_CHANGED;gut;OK;laden;AC;33.0;3.758;28.4;Li-poly
+action;12:11:08.266;44449.50773456019;BATTERY_CHANGED;gut;OK;laden;AC;33.0;3.739;28.5;Li-poly
+action;12:11:09.668;44449.50775078704;BATTERY_CHANGED;gut;OK;laden;AC;33.0;3.783;28.3;Li-poly
+action;12:11:20.048;44449.507870925925;ACTION_POWER_DISCONNECTED
+action;12:11:20.051;44449.507870960646;BATTERY_CHANGED;gut;OK;entladen;getrennt;33.0;3.763;28.4;Li-poly
+action;12:11:20.166;44449.507872291666;BATTERY_CHANGED;gut;OK;entladen;getrennt;33.0;3.725;28.6;Li-poly
+action;12:12:32.613;44449.50871079861;BATTERY_CHANGED;gut;OK;nicht laden;getrennt;33.0;3.755;28.4;Li-poly
+action;12:12:32.807;44449.50871304398;BATTERY_CHANGED;gut;OK;laden;getrennt;33.0;3.758;28.4;Li-poly
+action;12:12:33.891;44449.508725590276;BATTERY_CHANGED;gut;OK;laden;getrennt;33.0;3.762;28.2;Li-poly
+action;12:12:33.893;44449.50872561343;BATTERY_CHANGED;gut;OK;laden;getrennt;33.0;3.804;28.2;Li-poly
+action;12:12:35.839;44449.50874813658;ACTION_POWER_CONNECTED
+action;12:12:35.887;44449.508748692126;BATTERY_CHANGED;gut;OK;laden;AC;33.0;3.757;28.4;Li-poly
+action;12:12:35.951;44449.50874943287;BATTERY_CHANGED;gut;OK;laden;AC;33.0;3.757;28.5;Li-poly
+action;12:12:35.952;44449.508749444445;BATTERY_CHANGED;gut;OK;laden;AC;33.0;3.736;28.5;Li-poly
+action;12:12:47.409;44449.50888204861;BATTERY_CHANGED;gut;OK;laden;AC;33.0;3.879;28.0;Li-poly
+action;12:13:35.102;44449.509434050924;ACTION_POWER_DISCONNECTED
+action;12:13:35.103;44449.5094340625;BATTERY_CHANGED;gut;OK;entladen;getrennt;33.0;3.896;28.6;Li-poly
+action;12:13:35.215;44449.50943535879;BATTERY_CHANGED;gut;OK;entladen;getrennt;33.0;3.746;28.7;Li-poly
+action;12:13:43.791;44449.50953461806;BATTERY_CHANGED;gut;OK;nicht laden;getrennt;33.0;3.776;28.6;Li-poly
+action;12:13:43.965;44449.509536631944;BATTERY_CHANGED;gut;OK;laden;getrennt;33.0;3.771;28.7;Li-poly
+action;12:13:45.008;44449.5095487037;BATTERY_CHANGED;gut;OK;laden;getrennt;33.0;3.779;28.5;Li-poly
+action;12:13:46.928;44449.509570925926;BATTERY_CHANGED;gut;OK;laden;getrennt;33.0;3.773;28.6;Li-poly
+action;12:13:47.001;44449.50957177083;ACTION_POWER_CONNECTED
+action;12:13:47.002;44449.50957178241;BATTERY_CHANGED;gut;OK;laden;AC;33.0;3.765;28.6;Li-poly
+action;12:13:47.046;44449.50957229167;BATTERY_CHANGED;gut;OK;laden;AC;33.0;3.746;28.7;Li-poly
+action;12:13:47.110;44449.50957303241;BATTERY_CHANGED;gut;OK;laden;AC;33.0;3.736;28.7;Li-poly
+action;12:13:58.633;44449.509706400466;BATTERY_CHANGED;gut;OK;laden;AC;33.0;3.949;28.0;Li-poly
+action;12:14:19.775;44449.509951099535;ACTION_POWER_DISCONNECTED
+action;12:14:19.777;44449.50995112269;BATTERY_CHANGED;gut;OK;entladen;getrennt;33.0;3.809;28.8;Li-poly
+action;12:14:19.896;44449.5099525;BATTERY_CHANGED;gut;OK;entladen;getrennt;33.0;3.764;28.9;Li-poly
+info;12:16:07.993;44449.511203622686;Ende Aufzeichnung;Timeout GPS
+ 
+header;start
+header;app name;Sensor Recording;flavor;Pro;version;7.11;code;171
+header;android;10;SDK_INT;29;targetSdkVersion;30;minSdkVersion;14
+header;smartphone;Xiaomi;model;Redmi 7A
+header;free MB;1985.1640625;/storage/emulated/0/SensorRecording
+info;time;excel time;info text;info comment
+1-13+(sensors);time;excel time;x;y;z;abs value;RoT/steps;??
+action;time;excel time;action type;health;status;charge;plug;level [%];voltage;temperature;technology
+event;time;excel time;statistics;start/stop
+average;time;excel time;lon;lat;alt;acc
+stdDev;time;excel time;lon;lat;alt;acc;count
+header;end
+info;12:16:08.040;44449.511204166665;ACCESS_BACKGROUND_LOCATION;granted
+info;12:16:08.040;44449.511204166665;ACCESS_COARSE_LOCATION;granted
+info;12:16:08.040;44449.511204166665;ACCESS_FINE_LOCATION;granted
+info;12:16:08.040;44449.511204166665;READ_EXTERNAL_STORAGE;granted
+info;12:16:08.040;44449.511204166665;WRITE_EXTERNAL_STORAGE;granted
+info;12:16:08.040;44449.511204166665;RECORD_AUDIO;granted
+info;12:16:08.040;44449.511204166665;Start Aufzeichnung;2021-09-10 12:16:08.040 +0200 (MESZ)
+info;12:16:08.040;44449.511204166665;Start Aufzeichnung;Update Period [ms];100;Distance travelled from;1
+action;12:16:51.145;44449.511703067124;BATTERY_CHANGED;gut;OK;entladen;getrennt;33.0;3.699;30.3;Li-poly
+action;12:16:51.929;44449.511712141204;SCREEN_OFF
+action;12:16:52.885;44449.511723206015;BATTERY_CHANGED;gut;OK;entladen;getrennt;33.0;3.722;30.4;Li-poly
+action;12:16:53.210;44449.5117269676;SCREEN_ON
+info;12:17:09.062;44449.51191043982;Ende Aufzeichnung;Normales Ende durch Bediener
+ 
+header;start
+header;app name;Sensor Recording;flavor;Pro;version;7.11;code;171
+header;android;10;SDK_INT;29;targetSdkVersion;30;minSdkVersion;14
+header;smartphone;Xiaomi;model;Redmi 7A
+header;free MB;1978.82421875;/storage/emulated/0/SensorRecording
+info;time;excel time;info text;info comment
+1-13+(sensors);time;excel time;x;y;z;abs value;RoT/steps;??
+action;time;excel time;action type;health;status;charge;plug;level [%];voltage;temperature;technology
+event;time;excel time;statistics;start/stop
+average;time;excel time;lon;lat;alt;acc
+stdDev;time;excel time;lon;lat;alt;acc;count
+header;end
+info;12:20:01.222;44449.513903032406;ACCESS_BACKGROUND_LOCATION;granted
+info;12:20:01.222;44449.513903032406;ACCESS_COARSE_LOCATION;granted
+info;12:20:01.222;44449.513903032406;ACCESS_FINE_LOCATION;granted
+info;12:20:01.222;44449.513903032406;READ_EXTERNAL_STORAGE;granted
+info;12:20:01.222;44449.513903032406;WRITE_EXTERNAL_STORAGE;granted
+info;12:20:01.222;44449.513903032406;RECORD_AUDIO;granted
+info;12:20:01.222;44449.513903032406;Start Aufzeichnung;2021-09-10 12:20:01.222 +0200 (MESZ)
+info;12:20:01.222;44449.513903032406;Start Aufzeichnung;Update Period [ms];100;Distance travelled from;1
+action;12:20:01.393;44449.513905011576;BATTERY_CHANGED;gut;OK;entladen;getrennt;33.0;3.725;29.5;Li-poly
+action;12:20:01.848;44449.513910277776;BATTERY_CHANGED;gut;OK;entladen;getrennt;33.0;3.687;29.6;Li-poly
+action;12:20:02.752;44449.51392074074;SCREEN_OFF
+action;12:20:03.773;44449.51393255787;BATTERY_CHANGED;gut;OK;entladen;getrennt;33.0;3.715;29.5;Li-poly
+action;12:20:04.071;44449.513936006944;SCREEN_ON
+event;12:05:14.117;44449.50363561342;0.00000000;0.00000000;take over position;net
+event;12:20:06.126;44449.51395979167;statistics;stopped
+average;12:20:06.126;44449.51395979167;8.69894675;50.11461101;6.791;28.110
+stdDev;12:20:06.126;44449.51395979167;1.391;0.781;9.494;14.572;18
+info;12:20:10.001;44449.514004641205;Ende Aufzeichnung;Normales Ende durch Bediener
+ 
+header;start
+header;app name;Sensor Recording;flavor;Pro;version;7.11;code;171
+header;android;10;SDK_INT;29;targetSdkVersion;30;minSdkVersion;14
+header;smartphone;Xiaomi;model;Redmi 7A
+header;free MB;1973.33203125;/storage/emulated/0/SensorRecording
+info;time;excel time;info text;info comment
+1-13+(sensors);time;excel time;x;y;z;abs value;RoT/steps;??
+action;time;excel time;action type;health;status;charge;plug;level [%];voltage;temperature;technology
+event;time;excel time;statistics;start/stop
+average;time;excel time;lon;lat;alt;acc
+stdDev;time;excel time;lon;lat;alt;acc;count
+header;end
+info;12:21:50.387;44449.515166516205;ACCESS_BACKGROUND_LOCATION;granted
+info;12:21:50.387;44449.515166516205;ACCESS_COARSE_LOCATION;granted
+info;12:21:50.387;44449.515166516205;ACCESS_FINE_LOCATION;granted
+info;12:21:50.387;44449.515166516205;READ_EXTERNAL_STORAGE;granted
+info;12:21:50.387;44449.515166516205;WRITE_EXTERNAL_STORAGE;granted
+info;12:21:50.387;44449.515166516205;RECORD_AUDIO;granted
+info;12:21:50.387;44449.515166516205;Start Aufzeichnung;2021-09-10 12:21:50.387 +0200 (MESZ)
+info;12:21:50.387;44449.515166516205;Start Aufzeichnung;Update Period [ms];100;Distance travelled from;1
+action;12:21:50.463;44449.51516739583;BATTERY_CHANGED;gut;OK;entladen;getrennt;32.0;3.739;29.6;Li-poly
+event;12:05:14.117;44449.50363561342;0.00000000;0.00000000;take over position;net
+event;12:21:50.765;44449.5151708912;statistics;stopped
+average;12:21:50.765;44449.5151708912;8.69894675;50.11461101;6.791;28.110
+stdDev;12:21:50.765;44449.5151708912;1.391;0.781;9.494;14.572;18
+17;12:21:56.016;44449.515231666664;13.000
+17;12:22:00.043;44449.51527827546;14.000
+17;12:22:03.052;44449.51531310185;15.000
+17;12:22:07.030;44449.51535914352;16.000
+17;12:22:12.008;44449.515416759255;17.000
+17;12:22:15.992;44449.515462870375;18.000
+17;12:22:20.976;44449.51552055556;19.000
+17;12:22:25.003;44449.51556716435;20.000
+17;12:22:27.956;44449.51560134259;21.000
+17;12:22:31.991;44449.51564804398;22.000
+17;12:22:35.957;44449.515693946756;23.000
+17;12:22:39.981;44449.51574052083;24.000
+17;12:22:42.934;44449.51577469907;25.000
+17;12:22:46.964;44449.51582134259;26.000
+17;12:22:52.109;44449.5158808912;27.000
+17;12:22:52.131;44449.51588114584;28.000
+17;12:22:55.925;44449.51592505787;29.000
+17;12:23:00.905;44449.51598269676;30.000
+17;12:23:05.902;44449.516040532406;31.000
+17;12:23:09.878;44449.516086550924;32.000
+17;12:23:14.871;44449.516144340276;33.000
+17;12:23:18.891;44449.51619086806;34.000
+17;12:23:21.902;44449.5162257176;35.000
+17;12:23:24.855;44449.516259895834;36.000
+17;12:23:27.859;44449.516294664354;37.000
+17;12:23:30.864;44449.51632944444;38.000
+17;12:23:34.829;44449.51637533565;39.000
+17;12:23:38.871;44449.51642211806;40.000
+17;12:23:41.818;44449.51645622685;41.000
+17;12:23:44.811;44449.51649086806;42.000
+17;12:23:47.831;44449.51652582176;43.000
+17;12:23:51.992;44449.516573981484;44.000
+17;12:23:52.024;44449.51657435185;45.000
+17;12:23:56.795;44449.516629571764;46.000
+17;12:24:01.847;44449.51668804398;47.000
+17;12:24:05.806;44449.51673386574;48.000
+17;12:24:08.810;44449.51676863426;49.000
+17;12:24:11.773;44449.516802928236;50.000
+17;12:24:14.771;44449.516837627314;51.000
+17;12:24:17.770;44449.51687233796;52.000
+action;12:24:19.764;44449.516895416666;BATTERY_CHANGED;gut;OK;entladen;getrennt;32.0;3.728;30.0;Li-poly
+17;12:24:21.804;44449.51691902778;53.000
+17;12:24:25.771;44449.51696494213;54.000
+17;12:24:30.769;44449.517022789354;55.000
+17;12:24:34.731;44449.51706864583;56.000
+17;12:24:37.750;44449.51710358796;57.000
+17;12:24:40.752;44449.517138333336;58.000
+17;12:24:44.729;44449.51718436343;59.000
+17;12:24:47.724;44449.51721902778;60.000
+17;12:24:51.768;44449.51726583333;61.000
+17;12:24:55.751;44449.51731193287;62.000
+17;12:24:59.689;44449.51735751158;63.000
+17;12:25:03.730;44449.51740428241;64.000
+17;12:25:07.691;44449.517450127314;65.000
+17;12:25:11.675;44449.517496238426;66.000
+17;12:25:15.684;44449.51754263889;67.000
+17;12:25:19.665;44449.51758871527;68.000
+17;12:25:22.671;44449.517623506945;69.000
+17;12:25:26.653;44449.517669594905;70.000
+17;12:25:30.667;44449.51771605324;71.000
+17;12:25:34.645;44449.51776209491;72.000
+17;12:25:38.674;44449.51780872685;73.000
+17;12:25:42.807;44449.517856562496;74.000
+17;12:25:42.831;44449.51785684028;75.000
+17;12:25:47.644;44449.5179125463;76.000
+17;12:25:51.605;44449.5179583912;77.000
+17;12:25:55.588;44449.51800449074;78.000
+info;12:25:57.700;44449.518028935185;Ende Aufzeichnung;Normales Ende durch Bediener
+ 
+header;start
+header;app name;Sensor Recording;flavor;Pro;version;7.11;code;171
+header;android;10;SDK_INT;29;targetSdkVersion;30;minSdkVersion;14
+header;smartphone;Xiaomi;model;Redmi 7A
+header;free MB;1971.21875;/storage/emulated/0/SensorRecording
+info;time;excel time;info text;info comment
+1-13+(sensors);time;excel time;x;y;z;abs value;RoT/steps;??
+action;time;excel time;action type;health;status;charge;plug;level [%];voltage;temperature;technology
+event;time;excel time;statistics;start/stop
+average;time;excel time;lon;lat;alt;acc
+stdDev;time;excel time;lon;lat;alt;acc;count
+header;end
+info;12:28:38.255;44449.51988721065;ACCESS_BACKGROUND_LOCATION;granted
+info;12:28:38.255;44449.51988721065;ACCESS_COARSE_LOCATION;granted
+info;12:28:38.255;44449.51988721065;ACCESS_FINE_LOCATION;granted
+info;12:28:38.255;44449.51988721065;READ_EXTERNAL_STORAGE;granted
+info;12:28:38.255;44449.51988721065;WRITE_EXTERNAL_STORAGE;granted
+info;12:28:38.255;44449.51988721065;RECORD_AUDIO;granted
+info;12:28:38.255;44449.51988721065;Start Aufzeichnung;2021-09-10 12:28:38.255 +0200 (MESZ)
+info;12:28:38.255;44449.51988721065;Start Aufzeichnung;Update Period [ms];100;Distance travelled from;1
+action;12:28:38.310;44449.51988784722;BATTERY_CHANGED;gut;OK;entladen;getrennt;31.0;3.741;30.1;Li-poly
+event;12:05:14.117;44449.50363561342;0.00000000;0.00000000;take over position;net
+event;12:28:38.687;44449.51989221065;statistics;stopped
+average;12:28:38.687;44449.51989221065;8.69894675;50.11461101;6.791;28.110
+stdDev;12:28:38.687;44449.51989221065;1.391;0.781;9.494;14.572;18
+17;12:28:44.127;44449.519955173615;79.000
+info;12:28:48.657;44449.520007604166;Ende Aufzeichnung;Normales Ende durch Bediener
+ 
+header;start
+header;app name;Sensor Recording;flavor;Pro;version;7.11;code;171
+header;android;10;SDK_INT;29;targetSdkVersion;30;minSdkVersion;14
+header;smartphone;Xiaomi;model;Redmi 7A
+header;free MB;1971.1328125;/storage/emulated/0/SensorRecording
+info;time;excel time;info text;info comment
+1-13+(sensors);time;excel time;x;y;z;abs value;RoT/steps;??
+action;time;excel time;action type;health;status;charge;plug;level [%];voltage;temperature;technology
+event;time;excel time;statistics;start/stop
+average;time;excel time;lon;lat;alt;acc
+stdDev;time;excel time;lon;lat;alt;acc;count
+header;end
+info;12:29:09.386;44449.52024752315;ACCESS_BACKGROUND_LOCATION;granted
+info;12:29:09.386;44449.52024752315;ACCESS_COARSE_LOCATION;granted
+info;12:29:09.386;44449.52024752315;ACCESS_FINE_LOCATION;granted
+info;12:29:09.386;44449.52024752315;READ_EXTERNAL_STORAGE;granted
+info;12:29:09.386;44449.52024752315;WRITE_EXTERNAL_STORAGE;granted
+info;12:29:09.386;44449.52024752315;RECORD_AUDIO;granted
+info;12:29:09.386;44449.52024752315;Start Aufzeichnung;2021-09-10 12:29:09.386 +0200 (MESZ)
+info;12:29:09.386;44449.52024752315;Start Aufzeichnung;Update Period [ms];100;Distance travelled from;1
+action;12:29:09.441;44449.52024815972;BATTERY_CHANGED;gut;OK;entladen;getrennt;31.0;3.741;30.1;Li-poly
+event;12:05:14.117;44449.50363561342;0.00000000;0.00000000;take over position;net
+event;12:29:13.100;44449.52029050926;statistics;stopped
+average;12:29:13.100;44449.52029050926;8.69894675;50.11461101;6.791;28.110
+stdDev;12:29:13.100;44449.52029050926;1.391;0.781;9.494;14.572;18
+17;12:29:15.215;44449.520314988426;80.000
+17;12:29:27.185;44449.52045353009;81.000
+17;12:29:37.177;44449.52056917824;82.000
+17;12:29:47.164;44449.52068476852;83.000
+17;12:29:52.140;44449.520742361114;84.000
+info;12:29:54.919;44449.52077452546;Ende Aufzeichnung;Normales Ende durch Bediener
+ 
+header;start
+header;app name;Sensor Recording;flavor;Pro;version;7.11;code;171
+header;android;10;SDK_INT;29;targetSdkVersion;30;minSdkVersion;14
+header;smartphone;Xiaomi;model;Redmi 7A
+header;free MB;1970.62890625;/storage/emulated/0/SensorRecording
+info;time;excel time;info text;info comment
+1-13+(sensors);time;excel time;x;y;z;abs value;RoT/steps;??
+action;time;excel time;action type;health;status;charge;plug;level [%];voltage;temperature;technology
+event;time;excel time;statistics;start/stop
+average;time;excel time;lon;lat;alt;acc
+stdDev;time;excel time;lon;lat;alt;acc;count
+header;end
+info;12:32:25.644;44449.52251902778;ACCESS_BACKGROUND_LOCATION;granted
+info;12:32:25.644;44449.52251902778;ACCESS_COARSE_LOCATION;granted
+info;12:32:25.644;44449.52251902778;ACCESS_FINE_LOCATION;granted
+info;12:32:25.644;44449.52251902778;READ_EXTERNAL_STORAGE;granted
+info;12:32:25.644;44449.52251902778;WRITE_EXTERNAL_STORAGE;granted
+info;12:32:25.644;44449.52251902778;RECORD_AUDIO;granted
+info;12:32:25.644;44449.52251902778;Start Aufzeichnung;2021-09-10 12:32:25.644 +0200 (MESZ)
+info;12:32:25.644;44449.52251902778;Start Aufzeichnung;Update Period [ms];100;Distance travelled from;1
+action;12:32:25.685;44449.522519502316;BATTERY_CHANGED;gut;OK;entladen;getrennt;31.0;3.747;28.9;Li-poly
+event;12:05:14.117;44449.50363561342;0.00000000;0.00000000;take over position;net
+event;12:32:26.158;44449.522524976855;statistics;stopped
+average;12:32:26.158;44449.522524976855;8.69894675;50.11461101;6.791;28.110
+stdDev;12:32:26.158;44449.522524976855;1.391;0.781;9.494;14.572;18
+17;12:32:31.547;44449.52258734954;85.000
+17;12:32:48.502;44449.52278358796;86.000
+17;12:32:56.460;44449.52287569444;87.000
+17;12:33:01.509;44449.52293413194;88.000
+info;12:33:03.609;44449.522958437505;Ende Aufzeichnung;Normales Ende durch Bediener
+ 
+header;start
+header;app name;Sensor Recording;flavor;Pro;version;7.11;code;171
+header;android;10;SDK_INT;29;targetSdkVersion;30;minSdkVersion;14
+header;smartphone;Xiaomi;model;Redmi 7A
+header;free MB;1970.5546875;/storage/emulated/0/SensorRecording
+info;time;excel time;info text;info comment
+1-13+(sensors);time;excel time;x;y;z;abs value;RoT/steps;??
+action;time;excel time;action type;health;status;charge;plug;level [%];voltage;temperature;technology
+event;time;excel time;statistics;start/stop
+average;time;excel time;lon;lat;alt;acc
+stdDev;time;excel time;lon;lat;alt;acc;count
+header;end
+info;12:35:47.081;44449.52485047454;ACCESS_BACKGROUND_LOCATION;granted
+info;12:35:47.081;44449.52485047454;ACCESS_COARSE_LOCATION;granted
+info;12:35:47.081;44449.52485047454;ACCESS_FINE_LOCATION;granted
+info;12:35:47.081;44449.52485047454;READ_EXTERNAL_STORAGE;granted
+info;12:35:47.081;44449.52485047454;WRITE_EXTERNAL_STORAGE;granted
+info;12:35:47.081;44449.52485047454;RECORD_AUDIO;granted
+info;12:35:47.081;44449.52485047454;Start Aufzeichnung;2021-09-10 12:35:47.081 +0200 (MESZ)
+info;12:35:47.081;44449.52485047454;Start Aufzeichnung;Update Period [ms];100;Distance travelled from;1
+action;12:35:47.128;44449.52485101852;BATTERY_CHANGED;gut;OK;entladen;getrennt;31.0;3.758;29.9;Li-poly
+event;12:05:14.117;44449.50363561342;0.00000000;0.00000000;take over position;net
+event;12:35:47.515;44449.524855497686;statistics;stopped
+average;12:35:47.515;44449.524855497686;8.69894675;50.11461101;6.791;28.110
+stdDev;12:35:47.515;44449.524855497686;1.391;0.781;9.494;14.572;18
+action;12:35:49.901;44449.52488311342;BATTERY_CHANGED;gut;OK;entladen;getrennt;31.0;3.682;30.1;Li-poly
+action;12:35:50.461;44449.524889594904;SCREEN_OFF
+17;12:35:52.922;44449.52491807871;89.000
+17;12:36:06.877;44449.52507959491;90.000
+17;12:36:21.840;44449.52525277778;91.000
+action;12:36:24.635;44449.52528512731;BATTERY_CHANGED;gut;OK;entladen;getrennt;31.0;3.748;30.1;Li-poly
+action;12:36:24.836;44449.525287453704;SCREEN_ON
+info;12:36:26.721;44449.52530927083;Ende Aufzeichnung;Normales Ende durch Bediener
+ 
+header;start
+header;app name;Sensor Recording;flavor;Pro;version;7.11;code;171
+header;android;10;SDK_INT;29;targetSdkVersion;30;minSdkVersion;14
+header;smartphone;Xiaomi;model;Redmi 7A
+header;free MB;1970.16796875;/storage/emulated/0/SensorRecording
+info;time;excel time;info text;info comment
+1-13+(sensors);time;excel time;x;y;z;abs value;RoT/steps;??
+action;time;excel time;action type;health;status;charge;plug;level [%];voltage;temperature;technology
+event;time;excel time;statistics;start/stop
+average;time;excel time;lon;lat;alt;acc
+stdDev;time;excel time;lon;lat;alt;acc;count
+header;end
+info;12:39:13.537;44449.52724001158;ACCESS_BACKGROUND_LOCATION;granted
+info;12:39:13.537;44449.52724001158;ACCESS_COARSE_LOCATION;granted
+info;12:39:13.537;44449.52724001158;ACCESS_FINE_LOCATION;granted
+info;12:39:13.537;44449.52724001158;READ_EXTERNAL_STORAGE;granted
+info;12:39:13.537;44449.52724001158;WRITE_EXTERNAL_STORAGE;granted
+info;12:39:13.537;44449.52724001158;RECORD_AUDIO;granted
+info;12:39:13.537;44449.52724001158;Start Aufzeichnung;2021-09-10 12:39:13.537 +0200 (MESZ)
+info;12:39:13.537;44449.52724001158;Start Aufzeichnung;Update Period [ms];100;Distance travelled from;1
+action;12:39:13.601;44449.527240752315;BATTERY_CHANGED;gut;OK;entladen;getrennt;30.0;3.744;30.4;Li-poly
+event;12:05:14.117;44449.50363561342;0.00000000;0.00000000;take over position;net
+event;12:39:14.227;44449.527247997685;statistics;stopped
+average;12:39:14.227;44449.527247997685;8.69894675;50.11461101;6.791;28.110
+stdDev;12:39:14.227;44449.527247997685;1.391;0.781;9.494;14.572;18
+action;12:39:14.748;44449.52725402778;BATTERY_CHANGED;gut;OK;entladen;getrennt;30.0;3.692;30.9;Li-poly
+action;12:39:15.507;44449.527262812495;SCREEN_OFF
+17;12:39:19.237;44449.52730598379;92.000
+17;12:39:33.235;44449.52746799769;93.000
+17;12:39:39.205;44449.52753709491;94.000
+action;12:39:43.231;44449.52758369213;BATTERY_CHANGED;gut;OK;entladen;getrennt;30.0;3.745;30.8;Li-poly
+action;12:39:43.482;44449.52758659722;SCREEN_ON
+info;12:39:45.419;44449.52760901621;Ende Aufzeichnung;Normales Ende durch Bediener
+ 
+header;start
+header;app name;Sensor Recording;flavor;Pro;version;7.11;code;171
+header;android;10;SDK_INT;29;targetSdkVersion;30;minSdkVersion;14
+header;smartphone;Xiaomi;model;Redmi 7A
+header;free MB;1969.8203125;/storage/emulated/0/SensorRecording
+info;time;excel time;info text;info comment
+1-13+(sensors);time;excel time;x;y;z;abs value;RoT/steps;??
+action;time;excel time;action type;health;status;charge;plug;level [%];voltage;temperature;technology
+event;time;excel time;statistics;start/stop
+average;time;excel time;lon;lat;alt;acc
+stdDev;time;excel time;lon;lat;alt;acc;count
+header;end
+info;12:42:26.414;44449.52947238426;ACCESS_BACKGROUND_LOCATION;granted
+info;12:42:26.414;44449.52947238426;ACCESS_COARSE_LOCATION;granted
+info;12:42:26.414;44449.52947238426;ACCESS_FINE_LOCATION;granted
+info;12:42:26.414;44449.52947238426;READ_EXTERNAL_STORAGE;granted
+info;12:42:26.414;44449.52947238426;WRITE_EXTERNAL_STORAGE;granted
+info;12:42:26.414;44449.52947238426;RECORD_AUDIO;granted
+info;12:42:26.414;44449.52947238426;Start Aufzeichnung;2021-09-10 12:42:26.414 +0200 (MESZ)
+info;12:42:26.414;44449.52947238426;Start Aufzeichnung;Update Period [ms];100;Distance travelled from;1
+action;12:42:26.488;44449.52947324074;BATTERY_CHANGED;gut;OK;entladen;getrennt;30.0;3.757;30.3;Li-poly
+event;12:05:14.117;44449.50363561342;0.00000000;0.00000000;take over position;net
+event;12:42:26.812;44449.52947699074;statistics;stopped
+average;12:42:26.812;44449.52947699074;8.69894675;50.11461101;6.791;28.110
+stdDev;12:42:26.812;44449.52947699074;1.391;0.781;9.494;14.572;18
+17;12:42:36.242;44449.52958613426;95.000
+17;12:42:52.242;44449.529771319445;96.000
+17;12:43:02.162;44449.52988613426;97.000
+17;12:43:12.137;44449.53000158565;98.000
+17;12:43:17.120;44449.530059259254;99.000
+17;12:43:27.115;44449.530174942134;100.000
+info;12:43:28.410;44449.530189930556;Ende Aufzeichnung;Normales Ende durch Bediener
+ 
+header;start
+header;app name;Sensor Recording;flavor;Pro;version;7.11;code;171
+header;android;10;SDK_INT;29;targetSdkVersion;30;minSdkVersion;14
+header;smartphone;Xiaomi;model;Redmi 7A
+header;free MB;1969.34375;/storage/emulated/0/SensorRecording
+info;time;excel time;info text;info comment
+1-13+(sensors);time;excel time;x;y;z;abs value;RoT/steps;??
+action;time;excel time;action type;health;status;charge;plug;level [%];voltage;temperature;technology
+event;time;excel time;statistics;start/stop
+average;time;excel time;lon;lat;alt;acc
+stdDev;time;excel time;lon;lat;alt;acc;count
+header;end
+info;12:45:57.118;44449.531911087965;ACCESS_BACKGROUND_LOCATION;granted
+info;12:45:57.118;44449.531911087965;ACCESS_COARSE_LOCATION;granted
+info;12:45:57.118;44449.531911087965;ACCESS_FINE_LOCATION;granted
+info;12:45:57.118;44449.531911087965;READ_EXTERNAL_STORAGE;granted
+info;12:45:57.118;44449.531911087965;WRITE_EXTERNAL_STORAGE;granted
+info;12:45:57.118;44449.531911087965;RECORD_AUDIO;granted
+info;12:45:57.118;44449.531911087965;Start Aufzeichnung;2021-09-10 12:45:57.118 +0200 (MESZ)
+info;12:45:57.118;44449.531911087965;Start Aufzeichnung;Update Period [ms];100;Distance travelled from;1
+action;12:45:57.168;44449.531911666665;BATTERY_CHANGED;gut;OK;entladen;getrennt;30.0;3.754;29.2;Li-poly
+event;12:05:14.117;44449.50363561342;0.00000000;0.00000000;take over position;net
+event;12:45:57.646;44449.53191719907;statistics;stopped
+average;12:45:57.646;44449.53191719907;8.69894675;50.11461101;6.791;28.110
+stdDev;12:45:57.646;44449.53191719907;1.391;0.781;9.494;14.572;18
+17;12:46:03.002;44449.531979189815;101.000
+info;12:46:37.909;44449.532383206024;Ende Aufzeichnung;Normales Ende durch Bediener
+ 
+header;start
+header;app name;Sensor Recording;flavor;Pro;version;7.11;code;171
+header;android;10;SDK_INT;29;targetSdkVersion;30;minSdkVersion;14
+header;smartphone;Xiaomi;model;Redmi 7A
+header;free MB;1972.0859375;/storage/emulated/0/SensorRecording
+info;time;excel time;info text;info comment
+1-13+(sensors);time;excel time;x;y;z;abs value;RoT/steps;??
+action;time;excel time;action type;health;status;charge;plug;level [%];voltage;temperature;technology
+event;time;excel time;statistics;start/stop
+average;time;excel time;lon;lat;alt;acc
+stdDev;time;excel time;lon;lat;alt;acc;count
+header;end
+info;12:49:47.206;44449.534574143516;ACCESS_BACKGROUND_LOCATION;granted
+info;12:49:47.206;44449.534574143516;ACCESS_COARSE_LOCATION;granted
+info;12:49:47.206;44449.534574143516;ACCESS_FINE_LOCATION;granted
+info;12:49:47.206;44449.534574143516;READ_EXTERNAL_STORAGE;granted
+info;12:49:47.206;44449.534574143516;WRITE_EXTERNAL_STORAGE;granted
+info;12:49:47.206;44449.534574143516;RECORD_AUDIO;granted
+info;12:49:47.206;44449.534574143516;Start Aufzeichnung;2021-09-10 12:49:47.206 +0200 (MESZ)
+info;12:49:47.206;44449.534574143516;Start Aufzeichnung;Update Period [ms];100;Distance travelled from;1
+action;12:49:47.341;44449.53457570601;BATTERY_CHANGED;gut;OK;entladen;getrennt;29.0;3.644;30.4;Li-poly
+event;12:49:47.600;44449.53457870371;statistics;started
+action;12:49:49.523;44449.534600960644;BATTERY_CHANGED;gut;OK;entladen;getrennt;29.0;3.678;30.4;Li-poly
+action;12:49:50.030;44449.5346068287;BATTERY_CHANGED;gut;OK;entladen;getrennt;29.0;3.703;30.4;Li-poly
+action;12:49:50.341;44449.534610428236;SCREEN_OFF
+action;12:49:50.544;44449.534612777774;SCREEN_ON
+17;12:49:59.954;44449.534721689815;1.000
+info;12:50:33.756;44449.53511291667;Ende Aufzeichnung;Normales Ende durch Bediener
+ 
+header;start
+header;app name;Sensor Recording;flavor;Pro;version;7.11;code;171
+header;android;10;SDK_INT;29;targetSdkVersion;30;minSdkVersion;14
+header;smartphone;Xiaomi;model;Redmi 7A
+header;free MB;1972.12109375;/storage/emulated/0/SensorRecording
+info;time;excel time;info text;info comment
+1-13+(sensors);time;excel time;x;y;z;abs value;RoT/steps;??
+action;time;excel time;action type;health;status;charge;plug;level [%];voltage;temperature;technology
+event;time;excel time;statistics;start/stop
+average;time;excel time;lon;lat;alt;acc
+stdDev;time;excel time;lon;lat;alt;acc;count
+header;end
+info;12:53:10.230;44449.53692395834;ACCESS_BACKGROUND_LOCATION;granted
+info;12:53:10.230;44449.53692395834;ACCESS_COARSE_LOCATION;granted
+info;12:53:10.230;44449.53692395834;ACCESS_FINE_LOCATION;granted
+info;12:53:10.230;44449.53692395834;READ_EXTERNAL_STORAGE;granted
+info;12:53:10.230;44449.53692395834;WRITE_EXTERNAL_STORAGE;granted
+info;12:53:10.230;44449.53692395834;RECORD_AUDIO;granted
+info;12:53:10.230;44449.53692395834;Start Aufzeichnung;2021-09-10 12:53:10.230 +0200 (MESZ)
+info;12:53:10.230;44449.53692395834;Start Aufzeichnung;Update Period [ms];100;Distance travelled from;1
+action;12:53:10.320;44449.536925;BATTERY_CHANGED;gut;OK;entladen;getrennt;29.0;3.733;30.4;Li-poly
+event;12:53:10.553;44449.536927696754;statistics;started
+average;12:53:10.553;44449.536927696754;0.00000000;0.00000000;0.000;0.000
+stdDev;12:53:10.553;44449.536927696754;0.000;0.000;0.000;0.000;44
+17;12:53:16.062;44449.53699145833;2.000
+17;12:53:26.298;44449.537109930556;3.000
+17;12:53:36.278;44449.53722543981;4.000
+17;12:53:46.263;44449.537341006944;5.000
+info;12:53:52.685;44449.53741533565;Ende Aufzeichnung;Normales Ende durch Bediener
