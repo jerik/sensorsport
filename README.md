@@ -15,3 +15,6 @@ source: https://stackoverflow.com/a/5871524/1933185
 ### Interessting
 
 - https://github.com/rvlasveld/accelerometer_plotting
+
+# Next 
+- Lineprint of x,y,z, abs
