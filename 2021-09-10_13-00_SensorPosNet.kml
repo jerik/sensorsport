@@ -1,0 +1,450 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+
+    <Placemark>
+      <Info>Sensor Recording;flavor;Pro;version;7.11;code;171</Info>
+      <Info>Start at 2021-09-10 12:02:17.382 +0200 (MESZ)</Info>
+      <Info>UpdateRate 100 msec</Info>
+      <Style>
+      <LineStyle>
+        <color>0xff0000ff</color>
+        <width>4</width>
+      </LineStyle>
+      </Style>
+      <LineString>
+        <extrude>0</extrude>
+        <tessellate>0</tessellate>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>
+
+8.69889390,50.11460300,152.800
+8.69890160,50.11460250,152.800
+
+        </coordinates>
+      </LineString>
+      <Info>Stop2 at 2021-09-10 12:02:28.229 +0200 (MESZ)</Info>
+      <Info>Stop at 12:02:28.229</Info>
+      <Info>Comment: Ende Aufzeichnung (Normales Ende durch Bediener)</Info>
+    </Placemark>
+
+    <Placemark>
+      <Info>Sensor Recording;flavor;Pro;version;7.11;code;171</Info>
+      <Info>Start at 2021-09-10 12:02:36.078 +0200 (MESZ)</Info>
+      <Info>UpdateRate 100 msec</Info>
+      <Style>
+      <LineStyle>
+        <color>0xff0000ff</color>
+        <width>4</width>
+      </LineStyle>
+      </Style>
+      <LineString>
+        <extrude>0</extrude>
+        <tessellate>0</tessellate>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>
+
+8.69890150,50.11459310,152.800
+8.69890640,50.11457950,152.800
+
+        </coordinates>
+      </LineString>
+      <Info>Stop2 at 2021-09-10 12:02:51.106 +0200 (MESZ)</Info>
+      <Info>Stop at 12:02:51.106</Info>
+      <Info>Comment: Ende Aufzeichnung (Normales Ende durch Bediener)</Info>
+    </Placemark>
+
+    <Placemark>
+      <Info>Sensor Recording;flavor;Pro;version;7.11;code;171</Info>
+      <Info>Start at 2021-09-10 12:02:57.286 +0200 (MESZ)</Info>
+      <Info>UpdateRate 100 msec</Info>
+      <Style>
+      <LineStyle>
+        <color>0xff0000ff</color>
+        <width>4</width>
+      </LineStyle>
+      </Style>
+      <LineString>
+        <extrude>0</extrude>
+        <tessellate>0</tessellate>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>
+
+8.69889390,50.11454290,152.800
+8.69888700,50.11458960,152.800
+8.69890380,50.11459030,152.800
+8.69889460,50.11461280,152.800
+8.69889420,50.11461870,152.800
+8.69888940,50.11462150,151.600
+8.69888940,50.11461000,152.800
+8.69888220,50.11461410,152.800
+8.69889060,50.11460230,152.800
+8.69888280,50.11460680,151.000
+8.69889050,50.11461220,152.800
+8.69890000,50.11459300,152.800
+8.69890160,50.11460190,152.800
+8.69890520,50.11458300,152.800
+8.69888800,50.11454850,152.800
+8.69890390,50.11456220,152.800
+8.69890360,50.11457960,152.600
+8.69889160,50.11459380,152.600
+8.69888390,50.11458170,152.800
+8.69887580,50.11459170,151.000
+8.69889670,50.11456600,152.600
+8.69887430,50.11458520,152.800
+8.69891070,50.11458250,152.600
+8.69889750,50.11457610,151.600
+
+    <Placemark>
+      <Info>Sensor Recording;flavor;Pro;version;7.11;code;171</Info>
+      <Info>Start at 2021-09-10 12:10:18.726 +0200 (MESZ)</Info>
+      <Info>UpdateRate 100 msec</Info>
+      <Style>
+      <LineStyle>
+        <color>0xff0000ff</color>
+        <width>4</width>
+      </LineStyle>
+      </Style>
+      <LineString>
+        <extrude>0</extrude>
+        <tessellate>0</tessellate>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>
+
+8.69889600,50.11458740,151.600
+8.69889130,50.11458890,151.600
+8.69887170,50.11457470,151.000
+8.69887880,50.11458330,151.000
+8.69887840,50.11458270,151.000
+8.69888000,50.11456630,152.800
+8.69887610,50.11456500,152.800
+8.69887990,50.11457480,152.800
+8.69888790,50.11457840,152.800
+8.69888440,50.11458500,152.800
+8.69888480,50.11458530,152.800
+8.69887870,50.11458860,152.800
+8.69887320,50.11459110,152.800
+8.69887920,50.11458420,152.800
+8.69887600,50.11457620,152.800
+8.69889620,50.11459830,152.800
+8.69887510,50.11461230,152.800
+8.69889760,50.11460120,151.300
+8.69889630,50.11458390,151.300
+8.69890060,50.11458990,151.300
+
+    <Placemark>
+      <Info>Sensor Recording;flavor;Pro;version;7.11;code;171</Info>
+      <Info>Start at 2021-09-10 12:17:05.446 +0200 (MESZ)</Info>
+      <Info>UpdateRate 100 msec</Info>
+      <Style>
+      <LineStyle>
+        <color>0xff0000ff</color>
+        <width>4</width>
+      </LineStyle>
+      </Style>
+      <LineString>
+        <extrude>0</extrude>
+        <tessellate>0</tessellate>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>
+
+8.69889320,50.11454470,152.800
+
+        </coordinates>
+      </LineString>
+      <Info>Stop2 at 2021-09-10 12:17:09.062 +0200 (MESZ)</Info>
+      <Info>Stop at 12:17:09.062</Info>
+      <Info>Comment: Ende Aufzeichnung (Normales Ende durch Bediener)</Info>
+    </Placemark>
+
+
+    <Placemark>
+      <Info>Sensor Recording;flavor;Pro;version;7.11;code;171</Info>
+      <Info>Start at 2021-09-10 12:21:50.766 +0200 (MESZ)</Info>
+      <Info>UpdateRate 100 msec</Info>
+      <Style>
+      <LineStyle>
+        <color>0xff0000ff</color>
+        <width>4</width>
+      </LineStyle>
+      </Style>
+      <LineString>
+        <extrude>0</extrude>
+        <tessellate>0</tessellate>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>
+
+8.69892150,50.11467150,151.600
+8.69892320,50.11467900,151.600
+8.69895290,50.11466410,151.600
+8.69891910,50.11465780,151.600
+8.69891420,50.11465430,151.600
+8.69894480,50.11466620,151.600
+8.69893790,50.11466360,151.600
+8.69895220,50.11466910,151.600
+8.69896700,50.11466870,151.600
+8.69894550,50.11467250,151.600
+8.69892980,50.11468410,151.600
+8.69889360,50.11466860,151.100
+8.69891320,50.11467410,151.100
+
+        </coordinates>
+      </LineString>
+      <Info>Stop2 at 2021-09-10 12:25:57.700 +0200 (MESZ)</Info>
+      <Info>Stop at 12:25:57.700</Info>
+      <Info>Comment: Ende Aufzeichnung (Normales Ende durch Bediener)</Info>
+    </Placemark>
+
+
+    <Placemark>
+      <Info>Sensor Recording;flavor;Pro;version;7.11;code;171</Info>
+      <Info>Start at 2021-09-10 12:28:38.690 +0200 (MESZ)</Info>
+      <Info>UpdateRate 100 msec</Info>
+      <Style>
+      <LineStyle>
+        <color>0xff0000ff</color>
+        <width>4</width>
+      </LineStyle>
+      </Style>
+      <LineString>
+        <extrude>0</extrude>
+        <tessellate>0</tessellate>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>
+
+8.69913570,50.11468060,152.800
+
+        </coordinates>
+      </LineString>
+      <Info>Stop2 at 2021-09-10 12:28:48.657 +0200 (MESZ)</Info>
+      <Info>Stop at 12:28:48.657</Info>
+      <Info>Comment: Ende Aufzeichnung (Normales Ende durch Bediener)</Info>
+    </Placemark>
+
+
+    <Placemark>
+      <Info>Sensor Recording;flavor;Pro;version;7.11;code;171</Info>
+      <Info>Start at 2021-09-10 12:29:22.834 +0200 (MESZ)</Info>
+      <Info>UpdateRate 100 msec</Info>
+      <Style>
+      <LineStyle>
+        <color>0xff0000ff</color>
+        <width>4</width>
+      </LineStyle>
+      </Style>
+      <LineString>
+        <extrude>0</extrude>
+        <tessellate>0</tessellate>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>
+
+8.69893830,50.11465950,151.600
+8.69892870,50.11464810,152.800
+8.69895460,50.11464170,155.500
+8.69893060,50.11465190,151.600
+
+        </coordinates>
+      </LineString>
+      <Info>Stop2 at 2021-09-10 12:29:54.919 +0200 (MESZ)</Info>
+      <Info>Stop at 12:29:54.919</Info>
+      <Info>Comment: Ende Aufzeichnung (Normales Ende durch Bediener)</Info>
+    </Placemark>
+
+
+    <Placemark>
+      <Info>Sensor Recording;flavor;Pro;version;7.11;code;171</Info>
+      <Info>Start at 2021-09-10 12:32:26.159 +0200 (MESZ)</Info>
+      <Info>UpdateRate 100 msec</Info>
+      <Style>
+      <LineStyle>
+        <color>0xff0000ff</color>
+        <width>4</width>
+      </LineStyle>
+      </Style>
+      <LineString>
+        <extrude>0</extrude>
+        <tessellate>0</tessellate>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>
+
+8.69901290,50.11468630,151.600
+8.69895530,50.11468040,155.500
+
+        </coordinates>
+      </LineString>
+      <Info>Stop2 at 2021-09-10 12:33:03.609 +0200 (MESZ)</Info>
+      <Info>Stop at 12:33:03.609</Info>
+      <Info>Comment: Ende Aufzeichnung (Normales Ende durch Bediener)</Info>
+    </Placemark>
+
+
+    <Placemark>
+      <Info>Sensor Recording;flavor;Pro;version;7.11;code;171</Info>
+      <Info>Start at 2021-09-10 12:35:47.518 +0200 (MESZ)</Info>
+      <Info>UpdateRate 100 msec</Info>
+      <Style>
+      <LineStyle>
+        <color>0xff0000ff</color>
+        <width>4</width>
+      </LineStyle>
+      </Style>
+      <LineString>
+        <extrude>0</extrude>
+        <tessellate>0</tessellate>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>
+
+8.69890780,50.11464460,151.600
+8.69891750,50.11464670,151.600
+8.69891430,50.11465620,151.600
+
+        </coordinates>
+      </LineString>
+      <Info>Stop2 at 2021-09-10 12:36:26.721 +0200 (MESZ)</Info>
+      <Info>Stop at 12:36:26.721</Info>
+      <Info>Comment: Ende Aufzeichnung (Normales Ende durch Bediener)</Info>
+    </Placemark>
+
+
+    <Placemark>
+      <Info>Sensor Recording;flavor;Pro;version;7.11;code;171</Info>
+      <Info>Start at 2021-09-10 12:39:14.229 +0200 (MESZ)</Info>
+      <Info>UpdateRate 100 msec</Info>
+      <Style>
+      <LineStyle>
+        <color>0xff0000ff</color>
+        <width>4</width>
+      </LineStyle>
+      </Style>
+      <LineString>
+        <extrude>0</extrude>
+        <tessellate>0</tessellate>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>
+
+8.69895750,50.11465490,151.600
+8.69892340,50.11465000,151.600
+8.69895570,50.11467040,151.600
+
+        </coordinates>
+      </LineString>
+      <Info>Stop2 at 2021-09-10 12:39:45.419 +0200 (MESZ)</Info>
+      <Info>Stop at 12:39:45.419</Info>
+      <Info>Comment: Ende Aufzeichnung (Normales Ende durch Bediener)</Info>
+    </Placemark>
+
+
+    <Placemark>
+      <Info>Sensor Recording;flavor;Pro;version;7.11;code;171</Info>
+      <Info>Start at 2021-09-10 12:42:26.814 +0200 (MESZ)</Info>
+      <Info>UpdateRate 100 msec</Info>
+      <Style>
+      <LineStyle>
+        <color>0xff0000ff</color>
+        <width>4</width>
+      </LineStyle>
+      </Style>
+      <LineString>
+        <extrude>0</extrude>
+        <tessellate>0</tessellate>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>
+
+8.69897250,50.11464930,155.500
+8.69901610,50.11460670,154.400
+8.69903960,50.11455790,155.500
+8.69895350,50.11462500,152.800
+
+        </coordinates>
+      </LineString>
+      <Info>Stop2 at 2021-09-10 12:43:28.410 +0200 (MESZ)</Info>
+      <Info>Stop at 12:43:28.410</Info>
+      <Info>Comment: Ende Aufzeichnung (Normales Ende durch Bediener)</Info>
+    </Placemark>
+
+
+    <Placemark>
+      <Info>Sensor Recording;flavor;Pro;version;7.11;code;171</Info>
+      <Info>Start at 2021-09-10 12:45:57.648 +0200 (MESZ)</Info>
+      <Info>UpdateRate 100 msec</Info>
+      <Style>
+      <LineStyle>
+        <color>0xff0000ff</color>
+        <width>4</width>
+      </LineStyle>
+      </Style>
+      <LineString>
+        <extrude>0</extrude>
+        <tessellate>0</tessellate>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>
+
+8.69893730,50.11463870,152.800
+8.69902190,50.11463470,152.800
+8.69904650,50.11463120,152.800
+
+        </coordinates>
+      </LineString>
+      <Info>Stop2 at 2021-09-10 12:46:37.909 +0200 (MESZ)</Info>
+      <Info>Stop at 12:46:37.909</Info>
+      <Info>Comment: Ende Aufzeichnung (Normales Ende durch Bediener)</Info>
+    </Placemark>
+
+
+    <Placemark>
+      <Info>Sensor Recording;flavor;Pro;version;7.11;code;171</Info>
+      <Info>Start at 2021-09-10 12:49:47.601 +0200 (MESZ)</Info>
+      <Info>UpdateRate 100 msec</Info>
+      <Style>
+      <LineStyle>
+        <color>0xff0000ff</color>
+        <width>4</width>
+      </LineStyle>
+      </Style>
+      <LineString>
+        <extrude>0</extrude>
+        <tessellate>0</tessellate>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>
+
+8.69897770,50.11465460,152.800
+8.69901490,50.11463170,152.800
+8.69896500,50.11463540,155.500
+
+        </coordinates>
+      </LineString>
+      <Info>Stop2 at 2021-09-10 12:50:33.756 +0200 (MESZ)</Info>
+      <Info>Stop at 12:50:33.756</Info>
+      <Info>Comment: Ende Aufzeichnung (Normales Ende durch Bediener)</Info>
+    </Placemark>
+
+
+    <Placemark>
+      <Info>Sensor Recording;flavor;Pro;version;7.11;code;171</Info>
+      <Info>Start at 2021-09-10 12:53:10.554 +0200 (MESZ)</Info>
+      <Info>UpdateRate 100 msec</Info>
+      <Style>
+      <LineStyle>
+        <color>0xff0000ff</color>
+        <width>4</width>
+      </LineStyle>
+      </Style>
+      <LineString>
+        <extrude>0</extrude>
+        <tessellate>0</tessellate>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>
+
+8.69894850,50.11469220,151.600
+8.69893010,50.11467200,151.600
+8.69894100,50.11467530,151.600
+
+        </coordinates>
+      </LineString>
+      <Info>Stop2 at 2021-09-10 12:53:52.685 +0200 (MESZ)</Info>
+      <Info>Stop at 12:53:52.685</Info>
+      <Info>Comment: Ende Aufzeichnung (Normales Ende durch Bediener)</Info>
+    </Placemark>
+
+  </Document>
+</kml>
